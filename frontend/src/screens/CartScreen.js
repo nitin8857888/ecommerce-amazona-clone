@@ -92,7 +92,7 @@ export default function CartScreen() {
                         </Col>
                       </Row>
                     </li>
-                    ;
+                    
                   </>
                 );
               })}
